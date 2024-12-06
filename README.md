@@ -11,9 +11,8 @@ O projeto **ZenLog** tem como objetivo integrar pedidos de venda, notas de saíd
 - **Tratamento de Erros**: Captura e trata possíveis exceções durante o processo de integração, garantindo a estabilidade do sistema.
 
 ## Requisitos
-- **.NET 6.0 ou superior** (C#)
-- **SQL Server** versão 2016 ou superior
-- **Oracle Database** versão 19c ou superior
+- **.NET 7.0 ou superior** (C#)
+- **SQL Server** versão 2012 ou superior
 
 ### Pacotes NuGet:
 - `Dapper`
